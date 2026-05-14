@@ -1,15 +1,8 @@
 # Engenharia-de-Software_Projeto
-Desafio
 
-Observação: este site inclui um sistema de acessibilidade. Pressione Control-F11 para ajustar o site para pessoas com deficiências visuais que usam um leitor de tela; Pressione Control-F10 para abrir um menu de acessibilidade.
-Acessibilidade
-Pressione Enter para acessar acessibilidade para pessoas cegasque usam leitores de tela
-Pressione Enter para Navegação pelo Teclado
-Pressione Enter para acessar o menu de acessibilidade
 Desafio
 Prazo :  07/06/2026 - 23:59
-Desafio
-07/06/2026 - 23:59
+
 Sabemos que existem inúmeras técnicas e ferramentas que podem ser usadas durante a atividade de design (projeto) de sistemas. E isso não significa que todas elas serão necessárias em qualquer tipo de entrega de software, e nem que tudo o que formos desenvolver irá precisar de todos os diagramas possíveis.
 
 Ao longo das próximas semanas, à medida que você for completando as leituras e atividades propostas na disciplina, além de conhecer essas técnicas e ferramentas, você também identificará as situações mais indicadas para aplicação e dicas de uso.
